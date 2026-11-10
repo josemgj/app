@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "AbarrotesSync - Control de Inventario y Cobro",
+  "short_name": "Abarrotes",
+  "description": "Sistema de punto de venta y control de inventario con sincronización automática en Google Sheets.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AbarrotesSync - Control de Inventario y Cobro",
+  "description": "Sistema de punto de venta y control de inventario para pequeñas tiendas con sincronización automática en Google Sheets, reportes diarios de stock y gráficos de ganancias mensuales.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
